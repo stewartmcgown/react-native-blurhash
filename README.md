@@ -14,4 +14,4 @@ This is actually just a simple function that exports a blurhash string to a base
 ```
 
 
-<img alt="Blurhash Card Example" src="card-image.png" width="100")
+<img alt="Blurhash Card Example" src="card-image.png" width="100" />
